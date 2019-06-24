@@ -1,0 +1,7 @@
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\bin\Debug\1-podręcznik.exe.config
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\bin\Debug\1-podręcznik.exe
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\bin\Debug\1-podręcznik.pdb
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\obj\Debug\1-podręcznik.csprojAssemblyReference.cache
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\obj\Debug\1-podręcznik.csproj.CoreCompileInputs.cache
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\obj\Debug\1-podręcznik.exe
+C:\Users\TOBIASZ\source\repos\1-podręcznik\1-podręcznik\obj\Debug\1-podręcznik.pdb
